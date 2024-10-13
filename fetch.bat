@@ -1,0 +1,1 @@
+curl --url https://data.ny.gov/resource/jsu2-fbtj.csv?$limit=100000000 --output out.csv
